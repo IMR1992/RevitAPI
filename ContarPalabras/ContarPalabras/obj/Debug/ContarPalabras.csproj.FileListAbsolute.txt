@@ -1,0 +1,7 @@
+C:\Users\Mila\source\repos\ContarPalabras\ContarPalabras\bin\Debug\ContarPalabras.exe.config
+C:\Users\Mila\source\repos\ContarPalabras\ContarPalabras\bin\Debug\ContarPalabras.exe
+C:\Users\Mila\source\repos\ContarPalabras\ContarPalabras\bin\Debug\ContarPalabras.pdb
+C:\Users\Mila\source\repos\ContarPalabras\ContarPalabras\obj\Debug\ContarPalabras.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\ContarPalabras\ContarPalabras\obj\Debug\ContarPalabras.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\ContarPalabras\ContarPalabras\obj\Debug\ContarPalabras.exe
+C:\Users\Mila\source\repos\ContarPalabras\ContarPalabras\obj\Debug\ContarPalabras.pdb

@@ -1,0 +1,7 @@
+C:\Users\Mila\source\repos\AgendaContacto\AgendaContacto\bin\Debug\AgendaContacto.exe.config
+C:\Users\Mila\source\repos\AgendaContacto\AgendaContacto\bin\Debug\AgendaContacto.exe
+C:\Users\Mila\source\repos\AgendaContacto\AgendaContacto\bin\Debug\AgendaContacto.pdb
+C:\Users\Mila\source\repos\AgendaContacto\AgendaContacto\obj\Debug\AgendaContacto.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\AgendaContacto\AgendaContacto\obj\Debug\AgendaContacto.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\AgendaContacto\AgendaContacto\obj\Debug\AgendaContacto.exe
+C:\Users\Mila\source\repos\AgendaContacto\AgendaContacto\obj\Debug\AgendaContacto.pdb

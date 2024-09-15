@@ -1,0 +1,2 @@
+C:\Users\Mila\source\repos\MisApps\MisApps\obj\Debug\MisApps.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\MisApps\MisApps\obj\Debug\MisApps.csproj.CoreCompileInputs.cache

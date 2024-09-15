@@ -1,0 +1,7 @@
+C:\Users\Mila\source\repos\InvertirCadena\InvertirCadena\bin\Debug\InvertirCadena.exe.config
+C:\Users\Mila\source\repos\InvertirCadena\InvertirCadena\bin\Debug\InvertirCadena.exe
+C:\Users\Mila\source\repos\InvertirCadena\InvertirCadena\bin\Debug\InvertirCadena.pdb
+C:\Users\Mila\source\repos\InvertirCadena\InvertirCadena\obj\Debug\InvertirCadena.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\InvertirCadena\InvertirCadena\obj\Debug\InvertirCadena.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\InvertirCadena\InvertirCadena\obj\Debug\InvertirCadena.exe
+C:\Users\Mila\source\repos\InvertirCadena\InvertirCadena\obj\Debug\InvertirCadena.pdb

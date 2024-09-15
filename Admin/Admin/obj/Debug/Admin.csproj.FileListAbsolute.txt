@@ -1,0 +1,17 @@
+C:\Users\Mila\source\repos\Admin\Admin\bin\Debug\Admin.exe.config
+C:\Users\Mila\source\repos\Admin\Admin\bin\Debug\Admin.exe
+C:\Users\Mila\source\repos\Admin\Admin\bin\Debug\Admin.pdb
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.Form1.resources
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.PL.frmlistado.resources
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.Properties.Resources.resources
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.csproj.GenerateResource.cache
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.exe
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.pdb
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.exe.config
+C:\Users\Mila\source\repos\Admin\Admin\bin\Debug\MySql.Data.dll
+C:\Users\Mila\source\repos\Admin\Admin\bin\Debug\System.Buffers.dll
+C:\Users\Mila\source\repos\Admin\Admin\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mila\source\repos\Admin\Admin\obj\Debug\Admin.csproj.Up2Date
