@@ -15,6 +15,8 @@ namespace RetosProgramacionEjercicios
 {
     internal class Program
     {
+        private static string[] strings;
+
         static void Main(string[] args)
         {
             //Eje 1
@@ -254,6 +256,9 @@ namespace RetosProgramacionEjercicios
             string minusText =
             
             string[] strings = words.Split(' ');
+
+
+            //Probando
 
 
 
