@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Mila\\source\\repos\\RetosProgramacionEjercicios\\",
+  "WorkspaceRootPath": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\RetosProgramacionEjercicios\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4B09740-A64B-434B-AA60-CBBADEA2B9EC}|RetosProgramacionEjercicios\\RetosProgramacionEjercicios.csproj|c:\\users\\mila\\source\\repos\\retosprogramacionejercicios\\retosprogramacionejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4B09740-A64B-434B-AA60-CBBADEA2B9EC}|RetosProgramacionEjercicios\\RetosProgramacionEjercicios.csproj|c:\\users\\mila\\source\\repos\\revitapi\\retosprogramacionejercicios\\retosprogramacionejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4B09740-A64B-434B-AA60-CBBADEA2B9EC}|RetosProgramacionEjercicios\\RetosProgramacionEjercicios.csproj|solutionrelative:retosprogramacionejercicios\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4B09740-A64B-434B-AA60-CBBADEA2B9EC}|RetosProgramacionEjercicios\\RetosProgramacionEjercicios.csproj|C:\\Users\\Mila\\source\\repos\\RetosProgramacionEjercicios\\retosprogramacionejercicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4B09740-A64B-434B-AA60-CBBADEA2B9EC}|RetosProgramacionEjercicios\\RetosProgramacionEjercicios.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\RetosProgramacionEjercicios\\retosprogramacionejercicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4B09740-A64B-434B-AA60-CBBADEA2B9EC}|RetosProgramacionEjercicios\\RetosProgramacionEjercicios.csproj|solutionrelative:retosprogramacionejercicios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,9 +32,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RetosProgramacionEjercicios\\RetosProgramacionEjercicios\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\RetosProgramacionEjercicios\\RetosProgramacionEjercicios\\Class1.cs",
               "RelativeDocumentMoniker": "RetosProgramacionEjercicios\\Class1.cs",
-              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RetosProgramacionEjercicios\\RetosProgramacionEjercicios\\Class1.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\RetosProgramacionEjercicios\\RetosProgramacionEjercicios\\Class1.cs",
               "RelativeToolTip": "RetosProgramacionEjercicios\\Class1.cs",
               "ViewState": "AgIAADcAAAAAAAAAAAAYwFAAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -44,11 +44,15 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RetosProgramacionEjercicios\\RetosProgramacionEjercicios\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\RetosProgramacionEjercicios\\RetosProgramacionEjercicios\\Program.cs",
               "RelativeDocumentMoniker": "RetosProgramacionEjercicios\\Program.cs",
-              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RetosProgramacionEjercicios\\RetosProgramacionEjercicios\\Program.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\RetosProgramacionEjercicios\\RetosProgramacionEjercicios\\Program.cs",
               "RelativeToolTip": "RetosProgramacionEjercicios\\Program.cs",
+<<<<<<< HEAD
               "ViewState": "AgIAAPcAAAAAAAAAAAAAAP8AAAAfAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAOcAAAAAAAAAAAAqwAQBAAAWAAAAAAAAAA==",
+>>>>>>> e248b5032e29cbcd7f1995fd85976f2c4600e0b9
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T19:42:35.982Z",
               "EditorCaption": ""
