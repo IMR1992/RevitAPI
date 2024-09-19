@@ -13,15 +13,21 @@ namespace Alejandro240917
             int[] ints = new int[5] { -1, 1, 3, 4, 5 };
             
 
-            Console.WriteLine(IsUpward(ints));
+            //Console.WriteLine(IsUpward(ints));
 
             Rota(ints, 2);
+
+            Rota2(ints, -2);
 
             Console.WriteLine(ints[0]);
 
             //Console.WriteLine(ReverseString("casa"));
 
-            Console.WriteLine(CompletPalindromo("Casa"));
+            Console.WriteLine(CompletPalindromo("Casaya"));
+
+            Console.WriteLine(IsPalindromo("Casac"));
+
+            Console.WriteLine(IsPalindromo("cala"));
 
             Console.ReadLine();
 
@@ -32,16 +38,16 @@ namespace Alejandro240917
         {
             //Implemente un método que determine si el array está ordenado en orden no decreciente
 
-            int back = array[0];
+            
 
-            foreach (int i in array)
+            for (int i = 0; i < array.Length - 1;i++)
             {
-                if (back > i) 
+                if (array[i] > array[i+1]) 
                 {
                     return false;
-                    break;
+                    
                 }
-                back = i;
+                
 
             }
             return true;
@@ -53,16 +59,16 @@ namespace Alejandro240917
             //Implemente el método void Rota(int[] N, int k) que rote circularmente los elementos
             //de N, k posiciones a la derecha.
             
-            int Long = N.Length;
+            int nLong = N.Length;
             
             List<int> list = new List<int>();
 
-            for (int i = Long-k; i < N.Length; i++) 
+            for (int i = nLong-k; i < N.Length; i++) 
             {
                 list.Add(N[i]);
             }
 
-            for (int i = 0; i < Long - k; i++) 
+            for (int i = 0; i < nLong - k; i++) 
             {
                 list.Add(N[i]);
             }
@@ -73,30 +79,56 @@ namespace Alejandro240917
 
         }
 
-        public static string CompletPalindromo(string Text) 
+        public static void Rota2(int[] N, int k)
         {
-            string NewText = ReverseString(Text);
 
-            int LongText = NewText.Length;
+            //Implemente el método void Rota(int[] N, int k) que rote circularmente los elementos
+            //de N, k posiciones a la derecha.
 
-            
-
-            for (int i = 0; i < LongText; i++) 
+            if (k > 0)
             {
-                string t =ReverseString(Text.Remove(i+1));
+                Rota(N, k);
+            }
+            else
+            {
 
-                if (IsPalindromo(Text + t)) 
+                int nLong = N.Length;
+
+                List<int> list = new List<int>();
+
+                for (int i = -k; i < N.Length; i++)
                 {
-                    return t.ToLower();
-                    //break;
-                    
+                    list.Add(N[i]);
                 }
+
+                for (int i = 0; i < -k; i++)
+                {
+                    list.Add(N[i]);
+                }
+
+                N = list.ToArray();
+
+                Console.WriteLine(N[0]);
+            }
+        }
+
+
+
+        public static string CompletPalindromo(string text) 
+        {          
+
+           
+            string t = "";
+
+            for (int i = 0; i < text.Length; i++) 
+            {
+                t = text[i] + t;
+
+                if (IsPalindromo(text + t)) break;                     
+
             }
 
-
-
-
-            return NewText;
+            return t.ToLower();
         }
 
         public static string ReverseString(string Text) 
@@ -111,12 +143,18 @@ namespace Alejandro240917
             return NewText;
         }
 
-        public static bool IsPalindromo(string Text) 
+        public static bool IsPalindromo(string text) 
         {
-            string TextReverse = ReverseString(Text);
 
+            text = text.ToLower();
+                        
+            for (int i = 0; i < text.Length / 2; i++) 
+            {
+                if (text[i] != text[text.Length - 1 - i]) return false;
+            }
 
-            return Text.ToLower() == TextReverse.ToLower(); 
+            return true;
+                         
         }
 
 
