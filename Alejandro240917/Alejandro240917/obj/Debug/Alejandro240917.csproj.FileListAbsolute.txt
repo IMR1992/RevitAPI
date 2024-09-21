@@ -1,0 +1,14 @@
+C:\Users\Mila\source\repos\Alejandro240917\Alejandro240917\bin\Debug\Alejandro240917.exe.config
+C:\Users\Mila\source\repos\Alejandro240917\Alejandro240917\bin\Debug\Alejandro240917.exe
+C:\Users\Mila\source\repos\Alejandro240917\Alejandro240917\bin\Debug\Alejandro240917.pdb
+C:\Users\Mila\source\repos\Alejandro240917\Alejandro240917\obj\Debug\Alejandro240917.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\Alejandro240917\Alejandro240917\obj\Debug\Alejandro240917.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\Alejandro240917\Alejandro240917\obj\Debug\Alejandro240917.exe
+C:\Users\Mila\source\repos\Alejandro240917\Alejandro240917\obj\Debug\Alejandro240917.pdb
+C:\Users\Mila\source\repos\RevitAPI\Alejandro240917\Alejandro240917\obj\Debug\Alejandro240917.exe
+C:\Users\Mila\source\repos\RevitAPI\Alejandro240917\Alejandro240917\obj\Debug\Alejandro240917.pdb
+C:\Users\Mila\source\repos\RevitAPI\Alejandro240917\Alejandro240917\bin\Debug\Alejandro240917.exe.config
+C:\Users\Mila\source\repos\RevitAPI\Alejandro240917\Alejandro240917\bin\Debug\Alejandro240917.exe
+C:\Users\Mila\source\repos\RevitAPI\Alejandro240917\Alejandro240917\bin\Debug\Alejandro240917.pdb
+C:\Users\Mila\source\repos\RevitAPI\Alejandro240917\Alejandro240917\obj\Debug\Alejandro240917.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\RevitAPI\Alejandro240917\Alejandro240917\obj\Debug\Alejandro240917.csproj.CoreCompileInputs.cache
