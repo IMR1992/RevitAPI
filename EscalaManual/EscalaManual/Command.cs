@@ -167,7 +167,9 @@ namespace EscalaManual
             return filteredViews;
         }
 
-        public int GetScaleFromViews(List<View> views) {
+        public int GetScaleFromViews(List<View> views) {\
+
+
             //return views.All(x => x.Scale == views[0].Scale) ? views[0].Scale : 0;
             if (views.All(x => x.Scale == views[0].Scale))
             {
