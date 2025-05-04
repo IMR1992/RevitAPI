@@ -5,6 +5,8 @@ using Autodesk.Revit.DB;
 using Autodesk.Revit.UI;
 using System;
 using System.Collections.Generic;
+using System.Reflection;
+using System.Windows.Media.Imaging;
 
 #endregion
 
@@ -12,6 +14,8 @@ namespace AppGrupotec
 {
     internal class App : IExternalApplication
     {
+
+        string AssemblyName = System.Reflection.Assembly.GetExecutingAssembly().Location;
         public Result OnStartup(UIControlledApplication a)
         {
             //Crear una nueva pestana en la cinta de opciones de Revit
@@ -28,16 +32,56 @@ namespace AppGrupotec
                 //Es posible que la pestana ya existe, asi que capturamos la excepcion
             }
 
-            //Crear un un panel en la nueva pestana
+            //Crear nombres de paneles en la nueva pestana
             
-            string panelName = "Mediciones";
-
-            RibbonPanel panel = a.CreateRibbonPanel(tabName, panelName);
-
-            //Crear un boton en el panel
+            string panelNameMediciones = "Mediciones";
+            string panelNameModeloyVistas = "Modelos y Vistas";
 
 
 
+            //Aqui se crean el panel Mediciones y sus botones
+            try
+            {
+                //Crear un un panel Mediciones
+                RibbonPanel panelMediciones = a.CreateRibbonPanel(tabName, panelNameMediciones);
+
+                //Crear boton Codigo de mediciones en el panel mediciones
+                PushButtonData BotonMediciones = new PushButtonData("BotónCodigodeMediciones", "Código de Mediciones", AssemblyName, "AppGrupotec.CommandOpenForm");
+
+                PushButton botonCodigoMediciones = panelMediciones.AddItem(BotonMediciones) as PushButton;
+                string ImagePath = Rutas.AbsolutePath("measurementCode", "icons8-medida-32.png");
+
+                botonCodigoMediciones.ToolTip = "Código de Mediciones de Puertas, Muros, Tuberias y valvulas";
+                botonCodigoMediciones.LongDescription = "Generar código de mediciones";
+                botonCodigoMediciones.LargeImage = new BitmapImage(new Uri(ImagePath));
+            }
+            catch 
+            {
+                //Es posible que el boton ya exista, asi que capturamos la excepcion 
+            }
+
+            //Aqui se crean el panel Modelos y vistas y sus botones
+            try
+            {
+                RibbonPanel panelModelosyVistas = a.CreateRibbonPanel(tabName, panelNameModeloyVistas);
+
+                //Crear boton Codigo de mediciones en el panel mediciones
+                PushButtonData BotonEscalaGrafica = new PushButtonData("BotónEscalaGrafica", "Escala Grafica", AssemblyName, "AppGrupotec.EscalaGrafica");
+
+                PushButton botonEscalaGrafica = panelModelosyVistas.AddItem(BotonEscalaGrafica) as PushButton;
+                string ImagePath = Rutas.AbsolutePath("EscalaManual", "icono_escala_32x32.png");
+
+                botonEscalaGrafica.ToolTip = "Actualiza escala gráfica";
+                botonEscalaGrafica.LongDescription = "Actualiza escala gráfica de los planos en el modelo";
+                botonEscalaGrafica.LargeImage = new BitmapImage(new Uri(ImagePath));
+            }
+            catch
+            {
+                //Es posible que el boton ya exista, asi que capturamos la excepcion 
+            }
+
+
+            
             return Result.Succeeded;
 
         }
@@ -46,5 +90,7 @@ namespace AppGrupotec
         {
             return Result.Succeeded;
         }
+
+        
     }
 }

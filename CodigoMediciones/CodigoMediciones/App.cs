@@ -39,7 +39,16 @@ namespace CodigoMediciones
 
             string panelName = "Mediciones";
 
-            RibbonPanel panel = a.CreateRibbonPanel(tabName, panelName);
+            try
+            {
+                RibbonPanel panel = a.CreateRibbonPanel(tabName, panelName);
+            }
+            catch
+            {
+                //Es posible que el boton ya exista, asi que capturamos la excepcion 
+            }
+
+            
 
             //Crear un boton en el panel            
 

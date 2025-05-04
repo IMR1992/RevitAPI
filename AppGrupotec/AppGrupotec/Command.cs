@@ -52,6 +52,8 @@ namespace AppGrupotec
                 tx.Commit();
             }
 
+            TaskDialog.Show("Nuevo", "Nuevo");
+
             return Result.Succeeded;
         }
     }

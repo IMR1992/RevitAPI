@@ -24,7 +24,7 @@ namespace MisApps
             PushButton button1 = panel.AddItem(ButtonSaludar) as PushButton;
 
             button1.ToolTip = "Saludoi de inicio";
-            button1.LongDescription = "Sa"
+            button1.LongDescription = "Sa";
 
             return Result.Succeeded;
         }
