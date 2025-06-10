@@ -8,7 +8,8 @@ namespace AppGrupotec
 {
     internal class Rutas
     {
-        public static string AbsolutePath(string carpeta,string archive)
+        public static string 
+            AbsolutePath(string carpeta,string archive)
         {
             string basePath = Environment.GetFolderPath(Environment.SpecialFolder.UserProfile);
 
