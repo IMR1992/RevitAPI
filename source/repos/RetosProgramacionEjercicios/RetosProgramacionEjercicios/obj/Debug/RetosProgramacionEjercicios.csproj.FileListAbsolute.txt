@@ -1,0 +1,11 @@
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\bin\Debug\RetosProgramacionEjercicios.exe.config
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\bin\Debug\RetosProgramacionEjercicios.exe
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\bin\Debug\RetosProgramacionEjercicios.pdb
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\obj\Debug\RetosProgramacionEjercicios.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\obj\Debug\RetosProgramacionEjercicios.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\obj\Debug\RetosProgramacionEjercicios.exe
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\obj\Debug\RetosProgramacionEjercicios.pdb
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\bin\Debug\System.Drawing.Common.dll
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\bin\Debug\System.Drawing.Common.pdb
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\bin\Debug\System.Drawing.Common.xml
+C:\Users\Mila\source\repos\RetosProgramacionEjercicios\RetosProgramacionEjercicios\obj\Debug\RetosPro.C0080D6D.Up2Date

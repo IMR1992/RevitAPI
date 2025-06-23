@@ -1,0 +1,8 @@
+C:\Users\Mila\source\repos\MisApps\MisApps\obj\Debug\MisApps.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\MisApps\MisApps\obj\Debug\MisApps.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\RevitAPI\MisApps\MisApps\bin\Debug\MisApps.dll
+C:\Users\Mila\source\repos\RevitAPI\MisApps\MisApps\bin\Debug\MisApps.pdb
+C:\Users\Mila\source\repos\RevitAPI\MisApps\MisApps\obj\Debug\MisApps.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\RevitAPI\MisApps\MisApps\obj\Debug\MisApps.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\RevitAPI\MisApps\MisApps\obj\Debug\MisApps.dll
+C:\Users\Mila\source\repos\RevitAPI\MisApps\MisApps\obj\Debug\MisApps.pdb

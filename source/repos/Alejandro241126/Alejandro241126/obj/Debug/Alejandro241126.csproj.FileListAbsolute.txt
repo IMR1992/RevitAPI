@@ -1,0 +1,7 @@
+C:\Users\Mila\source\repos\Alejandro241126\Alejandro241126\bin\Debug\Alejandro241126.exe.config
+C:\Users\Mila\source\repos\Alejandro241126\Alejandro241126\bin\Debug\Alejandro241126.exe
+C:\Users\Mila\source\repos\Alejandro241126\Alejandro241126\bin\Debug\Alejandro241126.pdb
+C:\Users\Mila\source\repos\Alejandro241126\Alejandro241126\obj\Debug\Alejandro241126.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\Alejandro241126\Alejandro241126\obj\Debug\Alejandro241126.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\Alejandro241126\Alejandro241126\obj\Debug\Alejandro241126.exe
+C:\Users\Mila\source\repos\Alejandro241126\Alejandro241126\obj\Debug\Alejandro241126.pdb

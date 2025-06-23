@@ -1,0 +1,12 @@
+C:\Users\Mila\source\repos\EscalaManual\EscalaManual\bin\Debug\EscalaManual.dll
+C:\Users\Mila\source\repos\EscalaManual\EscalaManual\bin\Debug\EscalaManual.pdb
+C:\Users\Mila\source\repos\EscalaManual\EscalaManual\obj\Debug\EscalaManual.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\EscalaManual\EscalaManual\obj\Debug\EscalaManual.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\EscalaManual\EscalaManual\obj\Debug\EscalaManual.dll
+C:\Users\Mila\source\repos\EscalaManual\EscalaManual\obj\Debug\EscalaManual.pdb
+C:\Users\Mila\source\repos\RevitAPI\EscalaManual\EscalaManual\obj\Debug\EscalaManual.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\RevitAPI\EscalaManual\EscalaManual\obj\Debug\EscalaManual.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\RevitAPI\EscalaManual\EscalaManual\obj\Debug\EscalaManual.dll
+C:\Users\Mila\source\repos\RevitAPI\EscalaManual\EscalaManual\obj\Debug\EscalaManual.pdb
+C:\Users\Mila\source\repos\RevitAPI\EscalaManual\EscalaManual\bin\Debug\EscalaManual.dll
+C:\Users\Mila\source\repos\RevitAPI\EscalaManual\EscalaManual\bin\Debug\EscalaManual.pdb

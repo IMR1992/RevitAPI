@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command EscalaManual</Text>
+    <Description>Some description for EscalaManual</Description>
+    <Assembly>EscalaManual.dll</Assembly>
+    <FullClassName>EscalaManual.Command</FullClassName>
+    <ClientId>c8d64415-7e54-4041-9b74-8a982057db1e</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application EscalaManual</Name>
+    <Assembly>EscalaManual.dll</Assembly>
+    <FullClassName>EscalaManual.App</FullClassName>
+    <ClientId>2ed16ee5-8fd6-4621-9b13-ce07572975ac</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

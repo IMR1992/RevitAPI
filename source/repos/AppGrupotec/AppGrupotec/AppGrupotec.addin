@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command AppGrupotec</Text>
+    <Description>Some description for AppGrupotec</Description>
+    <Assembly>AppGrupotec.dll</Assembly>
+    <FullClassName>AppGrupotec.Command</FullClassName>
+    <ClientId>45d5b873-19ce-469b-8661-f2e4e5daf139</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application AppGrupotec</Name>
+    <Assembly>C:\Users\Mila\AppData\Roaming\Autodesk\Revit\Addins\2023\AppGrupotec.dll</Assembly>
+    <FullClassName>AppGrupotec.App</FullClassName>
+    <ClientId>c202ada4-c94a-4f02-ba6c-46232081efef</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

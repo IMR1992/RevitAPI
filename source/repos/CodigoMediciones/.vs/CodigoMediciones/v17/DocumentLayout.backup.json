@@ -1,0 +1,219 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|c:\\users\\mila\\source\\repos\\revitapi\\codigomediciones\\codigomediciones\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\app.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\codigomediciones\\rutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\rutas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\codigomediciones\\codigovalvulas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\codigovalvulas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\codigomediciones\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\codigomediciones\\codigomediciones.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\codigomediciones.addin||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\codigomediciones\\commandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\commandtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\codigomediciones\\codigopuertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\codigopuertas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\codigomediciones\\codigomuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\codigomuros.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\codigomediciones\\codigotuberias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\codigotuberias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\codigomediciones\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\formulario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\codigomediciones\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A168B4E-763E-41CB-B307-A9FA1EE4F231}|CodigoMediciones\\CodigoMediciones.csproj|solutionrelative:codigomediciones\\command.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Mila\\AppData\\Roaming\\Autodesk\\Revit\\Addins\\2023\\measurementCode\\DicTuberias.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\App.cs",
+              "RelativeDocumentMoniker": "CodigoMediciones\\App.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\App.cs*",
+              "RelativeToolTip": "CodigoMediciones\\App.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wC0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T10:39:17.48Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CodigoTuberias.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CodigoTuberias.cs",
+              "RelativeDocumentMoniker": "CodigoMediciones\\CodigoTuberias.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CodigoTuberias.cs",
+              "RelativeToolTip": "CodigoMediciones\\CodigoTuberias.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAgwBMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T18:06:51.458Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CodigoValvulas.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CodigoValvulas.cs",
+              "RelativeDocumentMoniker": "CodigoMediciones\\CodigoValvulas.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CodigoValvulas.cs",
+              "RelativeToolTip": "CodigoMediciones\\CodigoValvulas.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAAC4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T22:38:19.877Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rutas.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\Rutas.cs",
+              "RelativeDocumentMoniker": "CodigoMediciones\\Rutas.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\Rutas.cs",
+              "RelativeToolTip": "CodigoMediciones\\Rutas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T17:19:22.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DicTuberias.json",
+              "DocumentMoniker": "C:\\Users\\Mila\\AppData\\Roaming\\Autodesk\\Revit\\Addins\\2023\\measurementCode\\DicTuberias.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Roaming\\Autodesk\\Revit\\Addins\\2023\\measurementCode\\DicTuberias.json",
+              "ToolTip": "C:\\Users\\Mila\\AppData\\Roaming\\Autodesk\\Revit\\Addins\\2023\\measurementCode\\DicTuberias.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Roaming\\Autodesk\\Revit\\Addins\\2023\\measurementCode\\DicTuberias.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-22T11:42:34.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CodigoMuros.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CodigoMuros.cs",
+              "RelativeDocumentMoniker": "CodigoMediciones\\CodigoMuros.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CodigoMuros.cs",
+              "RelativeToolTip": "CodigoMediciones\\CodigoMuros.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAgwC4AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T15:49:11.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Formulario.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\Formulario.cs",
+              "RelativeDocumentMoniker": "CodigoMediciones\\Formulario.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\Formulario.cs",
+              "RelativeToolTip": "CodigoMediciones\\Formulario.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T15:18:08.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CodigoPuertas.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CodigoPuertas.cs",
+              "RelativeDocumentMoniker": "CodigoMediciones\\CodigoPuertas.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CodigoPuertas.cs",
+              "RelativeToolTip": "CodigoMediciones\\CodigoPuertas.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T17:20:55.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CodigoMediciones.addin",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CodigoMediciones.addin",
+              "RelativeDocumentMoniker": "CodigoMediciones\\CodigoMediciones.addin",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CodigoMediciones.addin",
+              "RelativeToolTip": "CodigoMediciones\\CodigoMediciones.addin",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000072|",
+              "WhenOpened": "2024-06-16T13:03:00.237Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommandTest.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CommandTest.cs",
+              "RelativeDocumentMoniker": "CodigoMediciones\\CommandTest.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\CommandTest.cs",
+              "RelativeToolTip": "CodigoMediciones\\CommandTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T14:38:02.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Command.cs",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\Command.cs",
+              "RelativeDocumentMoniker": "CodigoMediciones\\Command.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\Command.cs",
+              "RelativeToolTip": "CodigoMediciones\\Command.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-03T20:03:50.034Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Formulario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Mila\\source\\repos\\RevitAPI\\CodigoMediciones\\CodigoMediciones\\Formulario.cs",
+              "RelativeDocumentMoniker": "CodigoMediciones\\Formulario.cs",
+              "ToolTip": "C:\\Users\\Mila\\source\\repos\\CodigoMediciones\\CodigoMediciones\\Formulario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\CodigoMediciones\\CodigoMediciones\\Formulario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T20:40:18.779Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

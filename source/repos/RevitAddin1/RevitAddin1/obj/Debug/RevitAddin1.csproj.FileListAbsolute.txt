@@ -1,0 +1,6 @@
+C:\Users\Mila\source\repos\RevitAddin1\RevitAddin1\bin\Debug\RevitAddin1.dll
+C:\Users\Mila\source\repos\RevitAddin1\RevitAddin1\bin\Debug\RevitAddin1.pdb
+C:\Users\Mila\source\repos\RevitAddin1\RevitAddin1\obj\Debug\RevitAddin1.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\RevitAddin1\RevitAddin1\obj\Debug\RevitAddin1.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\RevitAddin1\RevitAddin1\obj\Debug\RevitAddin1.dll
+C:\Users\Mila\source\repos\RevitAddin1\RevitAddin1\obj\Debug\RevitAddin1.pdb

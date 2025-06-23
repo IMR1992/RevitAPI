@@ -1,0 +1,7 @@
+C:\Users\Mila\source\repos\RetosProgramacionC#\RetosProgramacionC#\bin\Debug\RetosProgramacionC#.exe.config
+C:\Users\Mila\source\repos\RetosProgramacionC#\RetosProgramacionC#\bin\Debug\RetosProgramacionC#.exe
+C:\Users\Mila\source\repos\RetosProgramacionC#\RetosProgramacionC#\bin\Debug\RetosProgramacionC#.pdb
+C:\Users\Mila\source\repos\RetosProgramacionC#\RetosProgramacionC#\obj\Debug\RetosProgramacionC#.csproj.AssemblyReference.cache
+C:\Users\Mila\source\repos\RetosProgramacionC#\RetosProgramacionC#\obj\Debug\RetosProgramacionC#.csproj.CoreCompileInputs.cache
+C:\Users\Mila\source\repos\RetosProgramacionC#\RetosProgramacionC#\obj\Debug\RetosProgramacionC#.exe
+C:\Users\Mila\source\repos\RetosProgramacionC#\RetosProgramacionC#\obj\Debug\RetosProgramacionC#.pdb
